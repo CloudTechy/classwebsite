@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to official NIBCODE school website! <br/>This is a test to see if the website test server is working.
+          Welcome to official NIBCODE school website! <br/>This is a test to see if the website dev server is working.
         </p>
         <a
           className="App-link"
